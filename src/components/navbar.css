@@ -1,0 +1,22 @@
+section{
+    padding: 30px;
+}
+
+.navbar-menu{
+    list-style-type: none;
+}
+
+#first{
+    float: right;
+    padding-right: 20px;
+}
+
+#second{
+    float: right;
+    padding-right: 10px;
+}
+
+#logo{
+    float: left;
+}
+
